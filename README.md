@@ -1,2 +1,2 @@
 # indecision-app
-### Simple react app that decides options for you :)
+### Simple react app that decide options for you :)
